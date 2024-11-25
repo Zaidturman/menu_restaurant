@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "بيتزا مارغريتا",
+    "price": 30,
+    "image": "https://images7.alphacoders.com/596/596343.jpg"
+  },
+  {
+    "id": 2,
+    "name": "برغر لحم",
+    "price": 25,
+    "image": "https://images7.alphacoders.com/596/596343.jpg"
+  },
+  {
+    "id": 3,
+    "name": "وجبة كرسبي",
+    "price": 35,
+    "image": "https://images7.alphacoders.com/596/596343.jpg"
+  },
+    {
+    "id": 4,
+    "name": "وجبة كرسبي",
+    "price": 35,
+    "image": "https://images7.alphacoders.com/596/596343.jpg"
+  },
+    {
+    "id": 5,
+    "name": "وجبة كرسبي",
+    "price": 35,
+    "image": "https://images7.alphacoders.com/596/596343.jpg"
+  },
+    {
+    "id": 6,
+    "name": "وجبة كرسبي",
+    "price": 35,
+    "image": "https://images7.alphacoders.com/596/596343.jpg"
+  }
+]
